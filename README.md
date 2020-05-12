@@ -34,7 +34,7 @@ The Project is divided in the following Sections:
 
 3. Go to http://0.0.0.0:3001/
 
-###Screenshots
+### Screenshots
 
 ![result1](https://github.com/avkolte/Disaster-Response-Pipeline-Project/blob/master/results/result1.png)
 ![result2](https://github.com/avkolte/Disaster-Response-Pipeline-Project/blob/master/results/result2.png)
